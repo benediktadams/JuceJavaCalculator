@@ -14,3 +14,8 @@ Calculator::Calculator()
 {
 
 }
+
+int Calculator::add(int a, int b)
+{
+    //call Java function here?
+}
